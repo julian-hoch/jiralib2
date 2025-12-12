@@ -1,4 +1,3 @@
-[[https://melpa.org/#/jiralib2][file:https://melpa.org/packages/jiralib2-badge.svg]]
 * JIRA REST API bindings to elisp
 *NOTE* This is a fork of the original https://github.com/nyyManni/jiralib2, just integrating the pull requests.
 
